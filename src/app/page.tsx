@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Herosection from "@/component/Herosection";
 import Feature from "@/component/Feature";
 import ChooseUs from "@/component/ChooseUs";
